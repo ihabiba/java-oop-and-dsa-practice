@@ -64,11 +64,10 @@ This was intentionally left unchanged to preserve the original academic submissi
 ```bash
 javac FileName.java
 java ClassName
-
+````
 Java 8 or later is recommended.
-```bash
-
----
+``
+-
 
 ## 🎯 Purpose
 
