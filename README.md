@@ -1,9 +1,10 @@
-````markdown
 # Java OOP & Data Structures Practice
 
 This repository contains **Java practice code and coursework** developed during Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA) courses.
 
 It covers core Java concepts, classical data structures, and problem-solving exercises implemented from scratch.
+
+---
 
 ## 📌 Topics Covered
 
@@ -27,7 +28,9 @@ It covers core Java concepts, classical data structures, and problem-solving exe
 - Methods & control flow  
 
 ### Basic GUI
-- Java Swing (Panels, Frames)  
+- Java Swing (Panels, Frames)
+
+---
 
 ## 📁 Repository Structure
 
@@ -39,6 +42,8 @@ Each `.java` file represents an **independent lab, assignment, or practice exerc
 - `InheritanceDemo.java` — OOP inheritance example  
 - `GUIwithPanels.java`, `MyFrame*.java` — basic Swing GUI practice  
 - File handling demos using `Scanner` and file streams  
+
+---
 
 ## ⚠️ Important Note
 
@@ -52,21 +57,10 @@ To run a file:
 
 This was intentionally left unchanged to preserve the original academic submissions.
 
+---
+
 ## ▶️ How to Run
 
 ```bash
 javac FileName.java
 java ClassName
-````
-
-(Java 8+ recommended)
-
-## 🎯 Purpose
-
-This repository is meant to:
-
-* Demonstrate understanding of **Java OOP and DSA fundamentals**
-* Showcase **problem-solving skills in Java**
-* Serve as a reference for academic and interview preparation
-
-```
