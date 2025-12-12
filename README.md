@@ -66,6 +66,7 @@ javac FileName.java
 java ClassName
 
 Java 8 or later is recommended.
+```bash
 
 ---
 
