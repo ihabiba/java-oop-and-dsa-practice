@@ -64,3 +64,18 @@ This was intentionally left unchanged to preserve the original academic submissi
 ```bash
 javac FileName.java
 java ClassName
+
+Java 8 or later is recommended.
+
+---
+
+## 🎯 Purpose
+
+This repository is intended to:
+
+* Demonstrate understanding of **Java OOP and DSA fundamentals**
+* Showcase **problem-solving skills in Java**
+* Serve as a reference for **academic study and interview preparation**
+
+```
+
