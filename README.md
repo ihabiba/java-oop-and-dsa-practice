@@ -70,5 +70,3 @@ This repository is meant to:
 * Serve as a reference for academic and interview preparation
 
 ```
-Pin it, move on, and don’t touch it again unless you *want* to polish later.
-```
